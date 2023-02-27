@@ -1,0 +1,15 @@
+/home/nikolai/Рабочий стол/Дз/Задача2/Задача3/Задача4/bin/Debug/net7.0/Задача4
+/home/nikolai/Рабочий стол/Дз/Задача2/Задача3/Задача4/bin/Debug/net7.0/Задача4.deps.json
+/home/nikolai/Рабочий стол/Дз/Задача2/Задача3/Задача4/bin/Debug/net7.0/Задача4.runtimeconfig.json
+/home/nikolai/Рабочий стол/Дз/Задача2/Задача3/Задача4/bin/Debug/net7.0/Задача4.dll
+/home/nikolai/Рабочий стол/Дз/Задача2/Задача3/Задача4/bin/Debug/net7.0/Задача4.pdb
+/home/nikolai/Рабочий стол/Дз/Задача2/Задача3/Задача4/obj/Debug/net7.0/Задача4.csproj.AssemblyReference.cache
+/home/nikolai/Рабочий стол/Дз/Задача2/Задача3/Задача4/obj/Debug/net7.0/Задача4.GeneratedMSBuildEditorConfig.editorconfig
+/home/nikolai/Рабочий стол/Дз/Задача2/Задача3/Задача4/obj/Debug/net7.0/Задача4.AssemblyInfoInputs.cache
+/home/nikolai/Рабочий стол/Дз/Задача2/Задача3/Задача4/obj/Debug/net7.0/Задача4.AssemblyInfo.cs
+/home/nikolai/Рабочий стол/Дз/Задача2/Задача3/Задача4/obj/Debug/net7.0/Задача4.csproj.CoreCompileInputs.cache
+/home/nikolai/Рабочий стол/Дз/Задача2/Задача3/Задача4/obj/Debug/net7.0/Задача4.dll
+/home/nikolai/Рабочий стол/Дз/Задача2/Задача3/Задача4/obj/Debug/net7.0/refint/Задача4.dll
+/home/nikolai/Рабочий стол/Дз/Задача2/Задача3/Задача4/obj/Debug/net7.0/Задача4.pdb
+/home/nikolai/Рабочий стол/Дз/Задача2/Задача3/Задача4/obj/Debug/net7.0/Задача4.genruntimeconfig.cache
+/home/nikolai/Рабочий стол/Дз/Задача2/Задача3/Задача4/obj/Debug/net7.0/ref/Задача4.dll

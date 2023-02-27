@@ -1,0 +1,15 @@
+/home/nikolai/Рабочий стол/Дз/Задача2/Задача3/bin/Debug/net7.0/Задача3
+/home/nikolai/Рабочий стол/Дз/Задача2/Задача3/bin/Debug/net7.0/Задача3.deps.json
+/home/nikolai/Рабочий стол/Дз/Задача2/Задача3/bin/Debug/net7.0/Задача3.runtimeconfig.json
+/home/nikolai/Рабочий стол/Дз/Задача2/Задача3/bin/Debug/net7.0/Задача3.dll
+/home/nikolai/Рабочий стол/Дз/Задача2/Задача3/bin/Debug/net7.0/Задача3.pdb
+/home/nikolai/Рабочий стол/Дз/Задача2/Задача3/obj/Debug/net7.0/Задача3.csproj.AssemblyReference.cache
+/home/nikolai/Рабочий стол/Дз/Задача2/Задача3/obj/Debug/net7.0/Задача3.GeneratedMSBuildEditorConfig.editorconfig
+/home/nikolai/Рабочий стол/Дз/Задача2/Задача3/obj/Debug/net7.0/Задача3.AssemblyInfoInputs.cache
+/home/nikolai/Рабочий стол/Дз/Задача2/Задача3/obj/Debug/net7.0/Задача3.AssemblyInfo.cs
+/home/nikolai/Рабочий стол/Дз/Задача2/Задача3/obj/Debug/net7.0/Задача3.csproj.CoreCompileInputs.cache
+/home/nikolai/Рабочий стол/Дз/Задача2/Задача3/obj/Debug/net7.0/Задача3.dll
+/home/nikolai/Рабочий стол/Дз/Задача2/Задача3/obj/Debug/net7.0/refint/Задача3.dll
+/home/nikolai/Рабочий стол/Дз/Задача2/Задача3/obj/Debug/net7.0/Задача3.pdb
+/home/nikolai/Рабочий стол/Дз/Задача2/Задача3/obj/Debug/net7.0/Задача3.genruntimeconfig.cache
+/home/nikolai/Рабочий стол/Дз/Задача2/Задача3/obj/Debug/net7.0/ref/Задача3.dll
